@@ -2,7 +2,7 @@
   "name": "website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Arun-Prasad2004.github.io/Bail-Reckoner-1/Bail Reckoner website/website/",
+  "homepage": "https://Arun-Prasad2004.github.io/Bail-Reckoner-1/",
   "type": "module",
   "scripts": {
     "dev": "vite",
