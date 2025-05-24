@@ -2,10 +2,13 @@
   "name": "website",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Arun-Prasad2004.github.io/Bail-Reckoner-1/Bail Reckoner website/website/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
